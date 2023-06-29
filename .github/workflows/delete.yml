@@ -1,4 +1,4 @@
-name: Delete
+name: Delete.
 on:
   workflow_dispatch:
   
