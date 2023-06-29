@@ -2,7 +2,7 @@ name: Delete
 on:
   workflow_dispatch:
   
-permissions: admin-all  
+permissions: write-all  
 jobs:
   build:
     runs-on: ubuntu-latest
